@@ -1,54 +1,69 @@
 <!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>MHCC Coding Academy 2015 by CodeAcademyMHCC</title>
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <title>PAGE TEMPLATE for MHCC Code Academy 2015 </title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+    <link href='http://fonts.googleapis.com/css?family=Source+Code+Pro:400,500' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,400italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="//codeacademymhcc.github.io/assets/style.css">
+</head>
+<body>
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-light.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>MHCC Coding Academy 2015</h1>
-        <p>codeacademymhcc.github.io</p>
+<!-- begin  main navigation header -->        
+<header class="navigation" role="banner">
+  <div class="navigation-wrapper">
+    <a href="http://codeacademymhcc.github.io/" class="logo">
+      <strong> <span class='fa fa-code'></span> MHCC Code Academy <span class='fa fa-code'></span></strong>
+    </a>
+    <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">MENU</a>
+    <nav role="navigation">
+      <ul id="js-navigation-menu" class="navigation-menu show">
+        <li class="nav-link"><a href="http://codeacademymhcc.github.io/course-overview/">Syllabus</a></li>
+        <li class="nav-link"><a href="http://codeacademymhcc.github.io/presentations">Presentations</a></li>
+        <li class="nav-link"><a href="http://codeacademymhcc.github.io/projects/">Projects</a></li>
+        <li class="nav-link"><a href="http://codeacademymhcc.github.io/frontendreferences/">Reference</a></li>
+        <li class="nav-link"><a href="https://github.com/orgs/CodeAcademyMHCC/">GitHub</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>      
+<!-- end main navigation header -->
 
+<!-- being main content -->
+    <section class='container'>        
+        <article>
+            <header>
+                <h1>MHCC Code Academy 2015</h1>    
+            </header>
 
-        <p class="view"><a href="https://github.com/CodeAcademyMHCC">View My GitHub Profile</a></p>
+            <p>
+                Please bookmark and refer to this page for updates to the syllabus, supplemental work materials and presentations as the course progresses. As a pilot program you can expect these things to change with some frequency.
+            </p>
 
-      </header>
-      <section>
-        <h1>
-<a id="overview" class="anchor" href="#overview" aria-hidden="true"><span class="octicon octicon-link"></span></a>Overview</h1>
+<p>
+    <em>Last updated June 30th, 2015.</em>
+</p>
 
-<p>Please refer to the syllabus below as you make your way through the Treehouse videos:</p>
+        </article>
+    </section>
+<!-- end main content -->    
+    <script src='//code.jquery.com/jquery-2.1.4.min.js'></script>
+    <script>
+    $(document).ready(function() {
+      var menuToggle = $('#js-mobile-menu').unbind();
+      $('#js-navigation-menu').removeClass("show");
 
-<ul>
-    <li><a href="https://github.com/CodeAcademyMHCC/course-overview/blob/master/course-syllabus.md">Course Syllabus</a></li>
-    <li><a href="https://github.com/CodeAcademyMHCC/course-overview/blob/master/course-description.md">Course Description</a></li>
-    <li><a href='http://codeacademymhcc.github.io/frontendreferences/'>External Reference Material</a></li>
-</ul>
-
-<h2>Example Projects</h2>
-
-<ul>
-    <li><a href='http://codeacademymhcc.github.io/css-bakery-example/'>Cannon Beach Bakery (CSS Examples)</a></li>
-</ul>
-
-<p>References</p>
-<ul>
-</ul>
-      </section>
-      <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-    
-  </body>
+      menuToggle.on('click', function(e) {
+        e.preventDefault();
+        $('#js-navigation-menu').slideToggle(function(){
+          if($('#js-navigation-menu').is(':hidden')) {
+            $('#js-navigation-menu').removeAttr('style');
+          }
+        });
+      });
+    });</script>
+</body>
 </html>
+
