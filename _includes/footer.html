@@ -1,0 +1,26 @@
+<footer>
+<div class='container'>
+  <hr />
+  <p><small class='light'><em>Site last updated {{ site.time | date: "%B %d, %Y" }}.</em></small></p>
+</div>
+</footer>
+
+<!-- end main content -->    
+    <script src='//code.jquery.com/jquery-2.1.4.min.js'></script>
+    <script>
+    $(document).ready(function() {
+      var menuToggle = $('#js-mobile-menu').unbind();
+      $('#js-navigation-menu').removeClass("show");
+
+      menuToggle.on('click', function(e) {
+        e.preventDefault();
+        $('#js-navigation-menu').slideToggle(function(){
+          if($('#js-navigation-menu').is(':hidden')) {
+            $('#js-navigation-menu').removeAttr('style');
+          }
+        });
+      });
+    });</script>
+</body>
+</html>
+

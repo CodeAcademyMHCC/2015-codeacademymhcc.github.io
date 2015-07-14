@@ -1,0 +1,13 @@
+# Site settings
+title: MHCC Code Academy
+description: ""
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://codeacademymhcc.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+# Other settings
+permalink: /:year/:month/:title/
+timezone: America/Los_Angeles
+future: false
