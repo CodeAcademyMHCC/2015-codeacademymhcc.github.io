@@ -1,0 +1,21 @@
+{% include header.html %}
+<!-- being main content -->
+    <section class='container'>        
+        <article>
+            <header>
+                <h1> {{page.title }}</h1>    
+            </header>
+            <div>
+            {{ content }}
+            
+            <section id='students'></section>
+            <script src='https://code.jquery.com/jquery-2.1.4.min.js'></script>
+            <script src='http://codeacademymhcc.github.io/progress/progress.data.js'></script>
+            <script src='http://codeacademymhcc.github.io/progress/progress.js'></script>
+            
+            </div>
+        </article>
+    </section>
+
+
+{% include footer.html %}
