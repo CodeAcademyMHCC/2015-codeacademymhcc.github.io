@@ -22,7 +22,7 @@ In this example we define a function that spits out one of three responses depen
 [&rarr; View this on GitHub](https://github.com/CodeAcademyMHCC/class-demos/tree/master/july-21-2015/traffic/traffic-light)
 
 
-[**Traffic: Prompt**](traffic-light-prompt)  
+[**Traffic: Prompt**](/class-demos/july-21-2015/traffic-light-prompt)  
 This example extends the previous example by prompting the user for the color of the traffic light. It spits out one of three responses based on his or her answer and styles the output text to match the specified color. 
 
 [&rarr;  View this on GitHub](https://github.com/CodeAcademyMHCC/class-demos/tree/master/july-21-2015/traffic/traffic-light-prompt)
