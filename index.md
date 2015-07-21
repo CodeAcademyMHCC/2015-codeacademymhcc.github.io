@@ -14,3 +14,4 @@ Please bookmark and refer to this page for updates to the syllabus, supplemental
 - [Using Atom in class.](/atom)
 - [Using the GitHub app in class.](/github-app)
 - [Presentation on Keyboard Shortcuts](/presentations/keyboard-shortcuts-july-16/)
+- [In-Class JavaScript Demos from July 21st](http://codeacademymhcc.github.io/demos/javascript-july-21-2015/)
