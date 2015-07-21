@@ -16,23 +16,23 @@ Links to active examples and the relevant source code can be found below.
 
 ### Traffic Light Examples
 
-[**Traffic: Be a Good Driver**](/class-demos/july-21-2015/traffic-light)  
+[**Traffic: Be a Good Driver**](/class-demos/july-21-2015/traffic/traffic-light)  
 In this example we define a function that spits out one of three responses depending on the value we pass.  
 
 [&rarr; View this on GitHub](https://github.com/CodeAcademyMHCC/class-demos/tree/master/july-21-2015/traffic/traffic-light)
 
 
-[**Traffic: Prompt**](/class-demos/july-21-2015/traffic-light-prompt)  
+[**Traffic: Prompt**](/class-demos/july-21-2015/traffic/traffic-light-prompt)  
 This example extends the previous example by prompting the user for the color of the traffic light. It spits out one of three responses based on his or her answer and styles the output text to match the specified color. 
 
 [&rarr;  View this on GitHub](https://github.com/CodeAcademyMHCC/class-demos/tree/master/july-21-2015/traffic/traffic-light-prompt)
 
-[**Traffic: Be a Bad Driver**](/class-demos/july-21-2015/traffic-light-bad-driver)   
+[**Traffic: Be a Bad Driver**](/class-demos/july-21-2015/traffic/traffic-light-bad-driver)   
 In this example we've extended the option to make good driving optional by passing a true/false value to the 'be_good' argument. 
 
 [&rarr;  View this on GitHub](https://github.com/CodeAcademyMHCC/class-demos/tree/master/july-21-2015/traffic/traffic-light-bad-driver)
 
-[**Traffic: Refactored**](/class-demos/july-21-2015/traffic-light-refactored)   
+[**Traffic: Refactored**](/class-demos/july-21-2015/traffic/traffic-light-refactored)   
 This example is functionally identical to the previous but the code has been rewritten to be a bit more compact. 
 
 [&rarr;  View this on GitHub](https://github.com/CodeAcademyMHCC/class-demos/tree/master/july-21-2015/traffic/traffic-light-refactored)
