@@ -4,4 +4,4 @@ title: MHCC Projects
 permalink: /projects/
 ---
 
-TBA.
+- [JavaScript Countdown Timer](https://github.com/CodeAcademyMHCC/js-countdown)
