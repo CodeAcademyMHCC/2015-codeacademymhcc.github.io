@@ -9,5 +9,6 @@ permalink: /slideshows/
 - [Keyboard Shortcuts — July 16th, 2015](/presentations/keyboard-shortcuts-july-16/)
 - [In-Class JavaScript Demos (Traffic, Numbers, Apples) — July 21st, 2015](/class-demos/javascript-july-21-2015/)
 - [Number Games — July 23rd, 2015](/class-demos/july-23-2015-number-games/)
+- [Bootstrap Examples in CodePen.io — August 11th, 2015](/demos/codepen-bootstrap/)
 
-<small>All presentations built using <a href='https://github.com/hakimel/reveal.js/'>Reveal.js</a>.</small>
+<small>Most presentations built using <a href='https://github.com/hakimel/reveal.js/'>Reveal.js</a>.</small>

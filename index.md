@@ -7,7 +7,6 @@ title: MHCC Code Academy 2015
 Please bookmark and refer to this page for updates to the syllabus, supplemental work materials and presentations as the course progresses. As a pilot program you can expect these things to change with some frequency.
 
 
-
 **[<span class='fa fa-chevron-right'></span> Courses and assignments for this week](/schedule)**
 
 **Helpful Reference**
