@@ -4,7 +4,10 @@ title: MHCC Code Academy Schedule &amp; Syllabus
 permalink: /schedule/
 ---
 
-### Week of July 20th, 2015  
+### Week of August 14th, 2015  
+
+
+- [Resume Layout Assignment](/projects/resume/)
 
 ## JavaScript & Interactivity
 
