@@ -85,7 +85,9 @@ Your project is now ready to use Font Awesome icons! To search what icons are av
 
 ### Step 5: Create your layout!
 
-You're ready to go! Be sure to refer to the [Bootstrap documentation](http://getbootstrap.com/css/) as you're going along — especially the CSS section that explains how the grid systems work!
+You're ready to go! Be sure to refer to the [Bootstrap documentation](http://getbootstrap.com/css/) as you're going along — especially the [section about the grid system](http://getbootstrap.com/css/#grid).
+
+If you have any questions at all do not hesitate to ask!
 
 
 
