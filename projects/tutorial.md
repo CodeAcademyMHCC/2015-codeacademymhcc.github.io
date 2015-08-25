@@ -51,8 +51,8 @@ We will go over these more thoroughly in clasee, but here are some ideas to cons
 Here are some example tutorial sites for inspiration
 
 - [instructables.com](http://instructables.com)
-- [www.wikihow.com](http://www.wikihow.com)
-- [www.ehow.com](http://www.ehow.com)
+- [wikihow.com](http://www.wikihow.com)
+- [ehow.com](http://www.ehow.com)
 - [tutsplus.com](http://tutsplus.com)
 - [developer.mozilla.org/en-US/docs/Web/Tutorials](http://developer.mozilla.org/en-US/docs/Web/Tutorials)
 
@@ -66,4 +66,3 @@ Intentionally silly suggestions. I encourage you to find your own :)
 - How to decide what magazine to buy at the airport
 - How to take part in a Game of Thrones discussion when you don't even watch that show 
 - How to decide what to make for breakfast/dinner/lunch
-- How to pretend your remember someone durig a conversation without actually using his or her name
