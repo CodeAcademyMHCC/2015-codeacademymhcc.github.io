@@ -4,8 +4,11 @@ title: MHCC Code Academy Schedule &amp; Syllabus
 permalink: /schedule/
 ---
 
-### Week of August 14th, 2015  
+### Week of August 25th, 2015  
 
+- [Create a Tutorial Project](/projects/create-a-tutorial/)
+
+### Week of August 14th, 2015  
 
 - [Resume Layout Assignment](/projects/resume/)
 
