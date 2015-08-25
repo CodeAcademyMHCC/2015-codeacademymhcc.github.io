@@ -50,11 +50,11 @@ We will go over these more thoroughly in clasee, but here are some ideas to cons
 
 Here are some example tutorial sites for inspiration
 
-- [instructables.com](instructables.com)
-- [www.wikihow.com](www.wikihow.com)
-- [www.ehow.com](www.ehow.com)
-- [tutsplus.com](tutsplus.com)
-- [developer.mozilla.org/en-US/docs/Web/Tutorials](developer.mozilla.org/en-US/docs/Web/Tutorials)
+- [instructables.com](http://instructables.com)
+- [www.wikihow.com](http://www.wikihow.com)
+- [www.ehow.com](http://www.ehow.com)
+- [tutsplus.com](http://tutsplus.com)
+- [developer.mozilla.org/en-US/docs/Web/Tutorials](http://developer.mozilla.org/en-US/docs/Web/Tutorials)
 
 
 ## Possible topics
